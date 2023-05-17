@@ -6,7 +6,7 @@ A good place to find 3ds themes is [Theme Plaza](https://themeplaza.art/themes)
 
 [_Themes_](#downloading-themes) are the themes you see on the Home screen of your 3ds
 
-[_Splashes_](./#downloading-splashes) are the screen you see when booting your 3ds, before getting into the Home menu
+[_Splashes_](#downloading-splashes) are the screen you see when booting your 3ds, before getting into the Home menu
 
 ## Downloading Themes
 
