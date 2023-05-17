@@ -4,4 +4,4 @@ There is a chance that this has been done 10,000 times before, I just wanted to 
 
 This guide also assumes you've followed the setup guide for CFW entirely, and installed the suggested additional programs (which will be the main focus point of this guide)
 
-This guide follows the use of [FBI](FBI.md), [Anemone](Anemone.md), [Homebrew](Homebrew.md)
+This guide follows the use of [FBI](FBI.md), [Anemone](Anemone.md), [Homebrew](Homebrew.md), [Luma](Luma.md)
